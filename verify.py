@@ -18,7 +18,7 @@ from dotenv import load_dotenv
 # --------------------------
 VERIFICATION_CONFIG = {
     # 目标仓库信息
-    "target_repo": "claude-code",
+    "target_repo": "github-file-verifier",
     
     # 目标文件信息
     "target_file": {
